@@ -1,0 +1,15 @@
+[package]
+name = "omarchy-app-starter"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+build = "build.rs"
+
+[features]
+default = ["gui"]
+gui = []
+
+[[bin]]
+name = "omarchy-app-starter"
+path = "src/main.rs"
+required-features = ["gui"]

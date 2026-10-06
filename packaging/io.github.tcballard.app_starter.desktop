@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Omarchy App Starter
+Comment=Omarchy application development starter
+Exec=omarchy-app-starter
+Icon=io.github.tcballard.app_starter
+Terminal=false
+Categories=Utility;
+StartupNotify=true

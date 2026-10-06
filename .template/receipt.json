@@ -1,0 +1,18 @@
+{
+  "AGENTS.md": "3ea2e2f2b2ba804c2107bb7e484abe884634549b0baf7b50f680daedb5997361",
+  "ARCHITECTURE.md": "0fd627ee0ab05a3f08f4da7a8572989c30f913a87d89bcf3b86db6e331ae2466",
+  "build.rs": "b60296e2d84f74ce3a89d2dcdb7171439ce1a199984d30dc09bc55aa9f24eb8c",
+  "Cargo.lock": "7bc4e20752808d3e7f55b5bbdf6ceeb527b7ae8b900ec39d1c53a9d0e8d53206",
+  "Cargo.toml": "44877ee1615053b31fa1ae7ddcc3b0483966c6f9283ce030e612636df7b2d44c",
+  "CREDITS.md": "4bd33f246eb88b1d189a433768cac55e3409d58fbbf04744ee9686d58af67ee2",
+  "docs/DEVELOPMENT.md": "4920240de73052e76fa56dc7f89fe569bf991918cc64664d8ef76cf4328de4d7",
+  "LICENSE": "277db3cbc16e79e9586c768e650c403096ef3b25c355d53a3c7ff13eea1fc2c0",
+  "packaging/io.github.tcballard.app_starter.desktop": "d879eb5715248d14fac03520e6243f37b577cc4d612a789eb6a677b059afabc7",
+  "packaging/io.github.tcballard.app_starter.svg": "96f252ab3c4d537ef4daf21eddd556ddc72462cdace6b05338e8ab9164b52102",
+  "README.md": "b0ac5292ea8230b090916aac41c244f197cefeb65e8eca00deea46929bf306db",
+  "rust-toolchain.toml": "dc8a9e7668c882190e58da244ac78e86d0d9875140a6249849f49b74d7382a76",
+  "src/lib.rs": "de2c22b01a43ff178de237f984867c609dfd688227a21b02d6ae5ca29203bfb0",
+  "src/main.rs": "a12cebf53eea0a8bb37265baf1b75a5bc025f0cd01b1c7398306ea9c98db9e42",
+  "ui/window.cpp": "cbd2378f5091584248303c18953feef0c7cb6f08e69128ddefd22738cda0ae9d",
+  "VERSION": "e9dd8507f4bf0c6f42458e41aea833ad0bd3f6127272335eee9bf4d58541ed67"
+}

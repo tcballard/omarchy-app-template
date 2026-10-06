@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=@@NAME_DESKTOP@@
+Comment=Omarchy application development starter
+Exec=@@SLUG@@
+Icon=@@ID@@
+Terminal=false
+Categories=Utility;
+StartupNotify=true

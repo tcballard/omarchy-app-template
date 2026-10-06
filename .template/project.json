@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "templateVersion": "0.1.0",
+  "kind": "app",
+  "owner": "tcballard",
+  "repo": "omarchy-app-template",
+  "slug": "omarchy-app-starter",
+  "name": "Omarchy App Starter",
+  "author": "Tom Ballard",
+  "id": "io.github.tcballard.app_starter",
+  "description": "A Rust application core with a small Qt desktop window.",
+  "year": "2026",
+  "inspiration": "",
+  "initialized": false
+}
