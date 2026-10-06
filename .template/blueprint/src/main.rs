@@ -14,7 +14,7 @@ extern "C" {
 extern "C" fn increment(state: *mut c_void) -> u32 {
     // SAFETY: run_window invokes callbacks synchronously on its UI thread and
     // does not retain this pointer after the event loop returns.
-    unsafe { (&mut *state.cast::<Counter>()).increment() }
+    unsafe { (*state.cast::<Counter>()).increment() }
 }
 
 fn main() {
